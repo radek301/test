@@ -1,0 +1,12 @@
+{
+	"User": "",
+	"adress": "",
+	"phone": "",
+	"userPets": [{
+		"name": "",
+		"age": "",
+		"wieght": "",
+		"sex": "",
+		"breed": ""
+	}]
+}
