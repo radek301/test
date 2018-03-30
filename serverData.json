@@ -1,0 +1,37 @@
+{
+  "user": {
+    "name": "radek",
+    "pet": [
+      {
+        "id": 0,
+        "name": "zelda",
+        "age": 6,
+        "sex": "female"
+      },
+      {
+        "id": 1,
+        "name": "charlie",
+        "age": 5,
+        "sex": "female"
+      },
+      {
+        "id": 2,
+        "name": "kalibut",
+        "age": 5,
+        "sex": "female"
+      },
+      {
+        "id": 3,
+        "name": "frejson",
+        "age": 5,
+        "sex": "female"
+      },
+      {
+        "id": 4,
+        "name": "ukulele",
+        "age": "5",
+        "sex": "female"
+      }
+    ]
+  }
+}
